@@ -9,9 +9,6 @@
 5.废弃特性
 6.应用特性</details>
   
-<details>
-<code></code>
-</details>
 ### 软件危机的表现形式
 <details>
 <code>
